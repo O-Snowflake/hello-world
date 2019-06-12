@@ -1,4 +1,4 @@
 # hello-world
-My first repository
+My first rep
 
 it's a commit test. v2
